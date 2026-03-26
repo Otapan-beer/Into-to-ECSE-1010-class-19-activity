@@ -8,13 +8,8 @@ You can also include images in this folder and reference them in the markdown. E
 -->
 
 ## How it works
-
 it is an and gate with an LED
-
 ## How to test
-
 flick the switch
-
 ## External hardware
-
 1 LED
